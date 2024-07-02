@@ -39,7 +39,7 @@
 2. Run the backend server.
 3. Run the Angular application.
 4. Access the application through the provided URL.
-5. 
+ 
 ## Diagrams
 Here is a diagram of the registration and login process:
 <img width="947" alt="English Angular Project Diagram" src="https://github.com/estyxxxx/AngularProject/blob/main/English%20Angular%20Project%20Diagram.jpg">
