@@ -27,7 +27,7 @@
   - C# (.NET)
   - Angular
   - Bootstrap
-  - SweetAlert (and potentially other libraries)
+  - SweetAlert
 
 ## External Libraries
   - Bootstrap for styling.
