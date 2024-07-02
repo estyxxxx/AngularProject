@@ -1,5 +1,5 @@
-# Course Management System - C# and Angular Project
-**This repository holds the code for a course management system built with C# on the server-side and Angular on the client-side.**
+# Course Management System
+**This C# and Angular-based project implements a course management system. It features user registration and login, course browsing, dynamic course creation with subject management, course detail views, search functionality, and frontal/Zoom course distinction. The system utilizes Bootstrap for styling and SweetAlert for user interactions.**
 
 ## Features
 
@@ -39,6 +39,13 @@
 2. Run the backend server.
 3. Run the Angular application.
 4. Access the application through the provided URL.
+5. 
+## Diagrams
+Here is a diagram of the registration and login process:
+<img width="947" alt="English Angular Project Diagram" src="https://github.com/estyxxxx/AngularProject/blob/main/English%20Angular%20Project%20Diagram.jpg">
+
+## Screenshots
+Will reveal soon...
 
 ## Contributors
 
